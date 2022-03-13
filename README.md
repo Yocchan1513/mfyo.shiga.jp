@@ -1,1 +1,2 @@
-mfyo.shiga.jp
+# mfyo.net
+
